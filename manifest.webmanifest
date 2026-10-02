@@ -1,0 +1,17 @@
+{
+  "name": "Chấm Hóa — Chấm bài nhanh",
+  "short_name": "Chấm Hóa",
+  "description": "PWA chấm bài kiểm tra Hóa học với chấm hàng loạt, SBD và mã đề 4 chữ số.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "vi",
+  "background_color": "#f5f6f1",
+  "theme_color": "#16233b",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
